@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/POC-check",
+  "id": "partners/POC-check",
+  "title": "Vragenlijst POC",
+  "description": "Common Ground Architectuur",
+  "source": "@site/docs/partners/POC-check.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/POC-check",
+  "permalink": "/openwoo/docs/partners/POC-check",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/POC-check.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Koop integratie van search API",
+    "permalink": "/openwoo/docs/partners/Koop"
+  },
+  "next": {
+    "title": "Tilburg",
+    "permalink": "/openwoo/docs/partners/Tilburg"
+  }
+}

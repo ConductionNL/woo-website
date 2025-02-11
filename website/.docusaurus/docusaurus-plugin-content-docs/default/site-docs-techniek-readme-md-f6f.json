@@ -1,0 +1,24 @@
+{
+  "unversionedId": "techniek/README",
+  "id": "techniek/README",
+  "title": "Techniek",
+  "description": "- Productie",
+  "source": "@site/docs/techniek/README.md",
+  "sourceDirName": "techniek",
+  "slug": "/techniek/",
+  "permalink": "/openwoo/docs/techniek/",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/techniek/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Toegankelijkheid",
+    "permalink": "/openwoo/docs/product/Toegankelijkheid"
+  },
+  "next": {
+    "title": "Architectuur",
+    "permalink": "/openwoo/docs/techniek/Architectuur"
+  }
+}

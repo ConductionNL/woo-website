@@ -1,0 +1,24 @@
+{
+  "unversionedId": "techniek/Configuratie",
+  "id": "techniek/Configuratie",
+  "title": "Configuratie",
+  "description": "Om te zorgen dat de OpenWoo-website goed werkt, is het belangrijk dat de onderliggende (zaak)systemen op de juiste manier zijn geconfigureerd. Zo kan het zaaksysteem de informatie aanleveren die op de voorkant nodig is voor het opbouwen van de index. Daarbij is het belangrijk om te weten welke waarden waar worden gebruikt en wat het effect is van configuratiekeuzes.",
+  "source": "@site/docs/techniek/Configuratie.md",
+  "sourceDirName": "techniek",
+  "slug": "/techniek/Configuratie",
+  "permalink": "/openwoo/docs/techniek/Configuratie",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/techniek/Configuratie.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architectuur",
+    "permalink": "/openwoo/docs/techniek/Architectuur"
+  },
+  "next": {
+    "title": "Installatie",
+    "permalink": "/openwoo/docs/techniek/Installatie"
+  }
+}

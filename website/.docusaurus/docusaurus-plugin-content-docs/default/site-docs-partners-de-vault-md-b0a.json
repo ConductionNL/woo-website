@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/DeVault",
+  "id": "partners/DeVault",
+  "title": "Koop Hulp(je)",
+  "description": "Vanuit de gemeente Buren is Koophulpje.nl opgezet. Het doel van Koophulpje is het doen van een Proof-of-Concept (poc) met de OpenWoo.app en het stellen van integrale zoekvragen aan de hand van het federale datastelsel (FSC) en API's.",
+  "source": "@site/docs/partners/DeVault.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/DeVault",
+  "permalink": "/openwoo/docs/partners/DeVault",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/DeVault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Datamask",
+    "permalink": "/openwoo/docs/partners/Datamask"
+  },
+  "next": {
+    "title": "Dimpact",
+    "permalink": "/openwoo/docs/partners/Dimpact"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/Dimpact",
+  "id": "partners/Dimpact",
+  "title": "Dimpact",
+  "description": "Dimpact heeft als samenwerkings- en inkooporganisatie vanuit diverse van haar leden de vraag gekregen om te verkennen hoe een eventuele proof-of-concept(PoC) in het kader van de Wet open overheid zou kunnen worden vormgegeven. Dimpact heeft deze verkenning in eerste instantie gemeenschappelijk met de gemeente Rotterdam uitgevoerd.",
+  "source": "@site/docs/partners/Dimpact.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/Dimpact",
+  "permalink": "/openwoo/docs/partners/Dimpact",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/Dimpact.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Koop Hulp(je)",
+    "permalink": "/openwoo/docs/partners/DeVault"
+  },
+  "next": {
+    "title": "KLPD",
+    "permalink": "/openwoo/docs/partners/KLPD"
+  }
+}

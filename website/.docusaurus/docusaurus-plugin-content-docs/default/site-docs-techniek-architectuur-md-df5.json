@@ -1,0 +1,24 @@
+{
+  "unversionedId": "techniek/Architectuur",
+  "id": "techniek/Architectuur",
+  "title": "Architectuur",
+  "description": "Hulp nodig?",
+  "source": "@site/docs/techniek/Architectuur.md",
+  "sourceDirName": "techniek",
+  "slug": "/techniek/Architectuur",
+  "permalink": "/openwoo/docs/techniek/Architectuur",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/techniek/Architectuur.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Techniek",
+    "permalink": "/openwoo/docs/techniek/"
+  },
+  "next": {
+    "title": "Configuratie",
+    "permalink": "/openwoo/docs/techniek/Configuratie"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "techniek/Tests",
+  "id": "techniek/Tests",
+  "title": "Testscenario's",
+  "description": "Om de Open WOO Website zelfstandig te kunnen installeren of doorontwikkelen, is het belangrijk om ook over herbruikbare testscenario's te beschikken. Daarnaast wilt u als afnemer ook graag weten of uw SAAS of SLA-product graag werkt. Daarvoor hebben we de volgende testscripts uitgeschreven.",
+  "source": "@site/docs/techniek/Tests.md",
+  "sourceDirName": "techniek",
+  "slug": "/techniek/Tests",
+  "permalink": "/openwoo/docs/techniek/Tests",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/techniek/Tests.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "In productie nemen",
+    "permalink": "/openwoo/docs/techniek/Productie"
+  }
+}

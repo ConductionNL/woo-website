@@ -1,0 +1,24 @@
+{
+  "unversionedId": "techniek/Installatie",
+  "id": "techniek/Installatie",
+  "title": "Installatie",
+  "description": "Deze installatiehandleiding is bedoeld voor overheden en leveranciers die zelfstandig aan de slag willen met OpenWoo-website. Als je OpenWoo-website als SaaS wilt afnemen, kijk dan onder kosten.",
+  "source": "@site/docs/techniek/Installatie.md",
+  "sourceDirName": "techniek",
+  "slug": "/techniek/Installatie",
+  "permalink": "/openwoo/docs/techniek/Installatie",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/techniek/Installatie.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuratie",
+    "permalink": "/openwoo/docs/techniek/Configuratie"
+  },
+  "next": {
+    "title": "Integratie",
+    "permalink": "/openwoo/docs/techniek/Integratie"
+  }
+}

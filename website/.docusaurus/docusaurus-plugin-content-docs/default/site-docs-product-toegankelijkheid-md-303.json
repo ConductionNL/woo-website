@@ -1,0 +1,24 @@
+{
+  "unversionedId": "product/Toegankelijkheid",
+  "id": "product/Toegankelijkheid",
+  "title": "Toegankelijkheid",
+  "description": "De OpenWoo.app streeft ernaar om Woo (pagina's) toegankelijk te maken voor een zo breed mogelijk publiek, ongeacht technologie of vermogen. Er daarom actief gewerkt aan het verhogen van de toegankelijkheid en bruikbaarheid van de React frontend en deze is gehouden aan veel van de beschikbare standaarden en richtlijnen.",
+  "source": "@site/docs/product/Toegankelijkheid.md",
+  "sourceDirName": "product",
+  "slug": "/product/Toegankelijkheid",
+  "permalink": "/openwoo/docs/product/Toegankelijkheid",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/product/Toegankelijkheid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beveiliging",
+    "permalink": "/openwoo/docs/product/SECURITY"
+  },
+  "next": {
+    "title": "Techniek",
+    "permalink": "/openwoo/docs/techniek/"
+  }
+}

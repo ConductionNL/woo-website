@@ -1,0 +1,24 @@
+{
+  "unversionedId": "KoopHulp",
+  "id": "KoopHulp",
+  "title": "Koop Hulp(je)",
+  "description": "Vanuit de gemeente Buren is Koophulpje.nl opgezet. Het doel van Koophulpje is het doen van een proof of concept (poc) met de OpenWoo.app en het stellen van integrale zoek vragen aan de hand van het federale data stelsel (FSC) en API's.",
+  "source": "@site/docs/KoopHulp.md",
+  "sourceDirName": ".",
+  "slug": "/KoopHulp",
+  "permalink": "/openwoo/docs/KoopHulp",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/KoopHulp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Governance",
+    "permalink": "/openwoo/docs/governance"
+  },
+  "next": {
+    "title": "Handleidingen",
+    "permalink": "/openwoo/docs/"
+  }
+}

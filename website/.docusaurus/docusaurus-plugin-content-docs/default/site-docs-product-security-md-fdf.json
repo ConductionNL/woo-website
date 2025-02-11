@@ -1,0 +1,24 @@
+{
+  "unversionedId": "product/SECURITY",
+  "id": "product/SECURITY",
+  "title": "Beveiliging",
+  "description": "Wij geloven in het integreren van beveiliging in de kern van ons ontwikkelingsproces. We maken gebruik van geautomatiseerde penetratietesten en scanning als onderdeel van onze Continuous Integration en Continuous Deployment (CI/CD) pipeline. Deze aanpak stelt ons in staat om mogelijke beveiligingskwetsbaarheden vroegtijdig te identificeren en aan te pakken, tijdens de ontwikkelingsfase in plaats van later in de productiefase.",
+  "source": "@site/docs/product/SECURITY.md",
+  "sourceDirName": "product",
+  "slug": "/product/SECURITY",
+  "permalink": "/openwoo/docs/product/SECURITY",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/product/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap Open WOO APP",
+    "permalink": "/openwoo/docs/product/Roadmap"
+  },
+  "next": {
+    "title": "Toegankelijkheid",
+    "permalink": "/openwoo/docs/product/Toegankelijkheid"
+  }
+}

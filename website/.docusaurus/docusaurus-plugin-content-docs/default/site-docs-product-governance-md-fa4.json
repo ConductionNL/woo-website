@@ -1,0 +1,24 @@
+{
+  "unversionedId": "product/GOVERNANCE",
+  "id": "product/GOVERNANCE",
+  "title": "Bestuur",
+  "description": "Het succes en de continue verbetering van het OpenWoo.app project zijn afhankelijk van een effectieve governance-structuur. Een belangrijk onderdeel van deze structuur is de stuurgroep, die verantwoordelijk is voor het beoordelen en prioriteren van de issues die op GitHub worden ingediend, en voor het bepalen welke daarvan worden opgenomen in de roadmap van het project.",
+  "source": "@site/docs/product/GOVERNANCE.md",
+  "sourceDirName": "product",
+  "slug": "/product/GOVERNANCE",
+  "permalink": "/openwoo/docs/product/GOVERNANCE",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/product/GOVERNANCE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Features",
+    "permalink": "/openwoo/docs/product/Features"
+  },
+  "next": {
+    "title": "Kosten",
+    "permalink": "/openwoo/docs/product/Kosten"
+  }
+}

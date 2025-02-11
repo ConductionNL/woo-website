@@ -1,0 +1,24 @@
+{
+  "unversionedId": "product/Privacyverklaring",
+  "id": "product/Privacyverklaring",
+  "title": "Algemene Privacyverklaring",
+  "description": "De deelnemende gemeente is toegewijd aan het waarborgen van uw privacy en het naleven van de wettelijke vereisten tijdens het leveren van onze diensten. Hieronder vindt u de manier waarop we uw persoonsgegevens verzamelen, gebruiken en beschermen.",
+  "source": "@site/docs/product/Privacyverklaring.md",
+  "sourceDirName": "product",
+  "slug": "/product/Privacyverklaring",
+  "permalink": "/openwoo/docs/product/Privacyverklaring",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/product/Privacyverklaring.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kosten",
+    "permalink": "/openwoo/docs/product/Kosten"
+  },
+  "next": {
+    "title": "Roadmap Open WOO APP",
+    "permalink": "/openwoo/docs/product/Roadmap"
+  }
+}

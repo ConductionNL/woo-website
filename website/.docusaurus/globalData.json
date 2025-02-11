@@ -1,0 +1,183 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/openwoo/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/openwoo/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "CONTRIBUTING",
+              "path": "/openwoo/docs/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "governance",
+              "path": "/openwoo/docs/governance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/openwoo/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "KoopHulp",
+              "path": "/openwoo/docs/KoopHulp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/Datamask",
+              "path": "/openwoo/docs/partners/Datamask",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/DeVault",
+              "path": "/openwoo/docs/partners/DeVault",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/Dimpact",
+              "path": "/openwoo/docs/partners/Dimpact",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/iO",
+              "path": "/openwoo/docs/partners/iO",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/KLPD",
+              "path": "/openwoo/docs/partners/KLPD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/Koop",
+              "path": "/openwoo/docs/partners/Koop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/POC-check",
+              "path": "/openwoo/docs/partners/POC-check",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/Tilburg",
+              "path": "/openwoo/docs/partners/Tilburg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/xxllnc",
+              "path": "/openwoo/docs/partners/xxllnc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/Yard",
+              "path": "/openwoo/docs/partners/Yard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/FAQ",
+              "path": "/openwoo/docs/product/FAQ",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/Features",
+              "path": "/openwoo/docs/product/Features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/GOVERNANCE",
+              "path": "/openwoo/docs/product/GOVERNANCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/Kosten",
+              "path": "/openwoo/docs/product/Kosten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/Privacyverklaring",
+              "path": "/openwoo/docs/product/Privacyverklaring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/README",
+              "path": "/openwoo/docs/product/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/Roadmap",
+              "path": "/openwoo/docs/product/Roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/SECURITY",
+              "path": "/openwoo/docs/product/SECURITY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "product/Toegankelijkheid",
+              "path": "/openwoo/docs/product/Toegankelijkheid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "README",
+              "path": "/openwoo/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techniek/Architectuur",
+              "path": "/openwoo/docs/techniek/Architectuur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techniek/Configuratie",
+              "path": "/openwoo/docs/techniek/Configuratie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techniek/Installatie",
+              "path": "/openwoo/docs/techniek/Installatie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techniek/Integratie",
+              "path": "/openwoo/docs/techniek/Integratie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techniek/Productie",
+              "path": "/openwoo/docs/techniek/Productie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techniek/README",
+              "path": "/openwoo/docs/techniek/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techniek/Tests",
+              "path": "/openwoo/docs/techniek/Tests",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/openwoo/docs/CONTRIBUTING",
+                "label": "CONTRIBUTING"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

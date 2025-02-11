@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/Tilburg",
+  "id": "partners/Tilburg",
+  "title": "Tilburg",
+  "description": "Context",
+  "source": "@site/docs/partners/Tilburg.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/Tilburg",
+  "permalink": "/openwoo/docs/partners/Tilburg",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/Tilburg.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vragenlijst POC",
+    "permalink": "/openwoo/docs/partners/POC-check"
+  },
+  "next": {
+    "title": "Yard",
+    "permalink": "/openwoo/docs/partners/Yard"
+  }
+}

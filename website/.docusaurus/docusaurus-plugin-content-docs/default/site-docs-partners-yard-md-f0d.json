@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/Yard",
+  "id": "partners/Yard",
+  "title": "Yard",
+  "description": "(moet nog ingevuld worden)",
+  "source": "@site/docs/partners/Yard.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/Yard",
+  "permalink": "/openwoo/docs/partners/Yard",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/Yard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tilburg",
+    "permalink": "/openwoo/docs/partners/Tilburg"
+  },
+  "next": {
+    "title": "iO",
+    "permalink": "/openwoo/docs/partners/iO"
+  }
+}

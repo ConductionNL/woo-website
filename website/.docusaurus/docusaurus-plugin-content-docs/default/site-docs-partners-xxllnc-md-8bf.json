@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/xxllnc",
+  "id": "partners/xxllnc",
+  "title": "xxllnc (Zaaksysteem.nl)",
+  "description": "(moet nog ingevuld worden)",
+  "source": "@site/docs/partners/xxllnc.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/xxllnc",
+  "permalink": "/openwoo/docs/partners/xxllnc",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/xxllnc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iO",
+    "permalink": "/openwoo/docs/partners/iO"
+  },
+  "next": {
+    "title": "Producten",
+    "permalink": "/openwoo/docs/product/"
+  }
+}

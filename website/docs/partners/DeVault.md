@@ -1,6 +1,6 @@
 # Koop Hulp(je)
 
-Vanuit de gemeente Buren is [Koophulpje.nl](koophulpje.nl) opgezet. Het doel van Koophulpje is het doen van een Proof-of-Concept (poc) met de OpenWoo.app en het stellen van integrale zoekvragen aan de hand van het federale datastelsel (FSC) en API's.
+Vanuit de gemeente Buren is [Koophulpje.nl](https://koophulpje.nl) opgezet. Het doel van Koophulpje is het doen van een Proof-of-Concept (poc) met de OpenWoo.app en het stellen van integrale zoekvragen aan de hand van het federale datastelsel (FSC) en API's.
 
 ## Voordelen
 

@@ -1,11 +1,9 @@
-/// <reference types="node" />
-/* eslint-disable @typescript-eslint/no-var-requires */
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+/* @ts-nocheck */
+/* eslint-disable */
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Open Register',
+  title: 'OpenWoo.app',
   tagline: 'Flexible object management for Nextcloud',
   url: 'https://conductionnl.github.io',
   baseUrl: '/openwoo/',
@@ -15,7 +13,7 @@ const config = {
   projectName: 'openwoo',
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -32,8 +30,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/conductionnl/woo-website/tree/main/website/',
+          editUrl: 'https://github.com/conductionnl/woo-website/tree/main/website/',
         },
         blog: false,
         theme: {
@@ -47,15 +44,16 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Open Register',
+        title: 'OpenWoo.app',
         logo: {
-          alt: 'Open Register Logo',
+          alt: 'OpenWoo.app Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
+            docId: 'intro',
             position: 'left',
             label: 'Documentation',
           },

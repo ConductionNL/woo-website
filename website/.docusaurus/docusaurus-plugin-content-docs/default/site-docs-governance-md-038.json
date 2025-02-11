@@ -1,0 +1,27 @@
+{
+  "unversionedId": "governance",
+  "id": "governance",
+  "title": "Governance",
+  "description": "This document outlines the governance structure of the project.",
+  "source": "@site/docs/GOVERNANCE.md",
+  "sourceDirName": ".",
+  "slug": "/governance",
+  "permalink": "/openwoo/docs/governance",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/GOVERNANCE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "governance",
+    "title": "Governance"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bijdragen aan OpenWoo.app",
+    "permalink": "/openwoo/docs/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Koop Hulp(je)",
+    "permalink": "/openwoo/docs/KoopHulp"
+  }
+}

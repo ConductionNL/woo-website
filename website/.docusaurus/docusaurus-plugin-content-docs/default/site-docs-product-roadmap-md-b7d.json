@@ -1,0 +1,24 @@
+{
+  "unversionedId": "product/Roadmap",
+  "id": "product/Roadmap",
+  "title": "Roadmap Open WOO APP",
+  "description": "Organisaties kunnen bijdragen aan deze roadmap door items aan te dragen, deze zelf op te pakken en uit te voeren, of door de uitvoering ervan te financieren.",
+  "source": "@site/docs/product/Roadmap.md",
+  "sourceDirName": "product",
+  "slug": "/product/Roadmap",
+  "permalink": "/openwoo/docs/product/Roadmap",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/product/Roadmap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Algemene Privacyverklaring",
+    "permalink": "/openwoo/docs/product/Privacyverklaring"
+  },
+  "next": {
+    "title": "Beveiliging",
+    "permalink": "/openwoo/docs/product/SECURITY"
+  }
+}

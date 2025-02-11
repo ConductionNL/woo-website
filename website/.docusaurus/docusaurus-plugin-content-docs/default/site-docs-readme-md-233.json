@@ -1,0 +1,24 @@
+{
+  "unversionedId": "README",
+  "id": "README",
+  "title": "Handleidingen",
+  "description": "- Product",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/openwoo/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Koop Hulp(je)",
+    "permalink": "/openwoo/docs/KoopHulp"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/openwoo/docs/"
+  }
+}

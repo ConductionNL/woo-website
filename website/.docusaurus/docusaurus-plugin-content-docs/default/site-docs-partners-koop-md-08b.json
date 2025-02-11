@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/Koop",
+  "id": "partners/Koop",
+  "title": "Koop integratie van search API",
+  "description": "Vanuit verschillende overheden is aan KOOP de vraag gesteld of zij ook een API kunnen ondersteunen (naast de sitemap.xml)",
+  "source": "@site/docs/partners/Koop.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/Koop",
+  "permalink": "/openwoo/docs/partners/Koop",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/Koop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KLPD",
+    "permalink": "/openwoo/docs/partners/KLPD"
+  },
+  "next": {
+    "title": "Vragenlijst POC",
+    "permalink": "/openwoo/docs/partners/POC-check"
+  }
+}

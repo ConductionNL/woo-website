@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/iO",
+  "id": "partners/iO",
+  "title": "iO",
+  "description": "",
+  "source": "@site/docs/partners/iO.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/iO",
+  "permalink": "/openwoo/docs/partners/iO",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/iO.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Yard",
+    "permalink": "/openwoo/docs/partners/Yard"
+  },
+  "next": {
+    "title": "xxllnc (Zaaksysteem.nl)",
+    "permalink": "/openwoo/docs/partners/xxllnc"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "CONTRIBUTING",
+  "id": "CONTRIBUTING",
+  "title": "Bijdragen aan OpenWoo.app",
+  "description": "Deelnemen aan het OpenWoo.app project is een uitnodiging om deel uit te maken van een gemeenschap die zich inzet voor het creëren van een open en innovatief webplatform. Als open-source initiatief waarderen we de inbreng van iedereen, ongeacht ervaringsniveau of achtergrond. Hier zijn enkele manieren waarop u kunt bijdragen aan het project:",
+  "source": "@site/docs/CONTRIBUTING.md",
+  "sourceDirName": ".",
+  "slug": "/CONTRIBUTING",
+  "permalink": "/openwoo/docs/CONTRIBUTING",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Governance",
+    "permalink": "/openwoo/docs/governance"
+  }
+}

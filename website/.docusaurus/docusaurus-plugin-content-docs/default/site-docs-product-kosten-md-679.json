@@ -1,0 +1,24 @@
+{
+  "unversionedId": "product/Kosten",
+  "id": "product/Kosten",
+  "title": "Kosten",
+  "description": "OpenWoo.app bestaat in essentie uit een drietal onderdelen die samen oplossing vormen, zie ook architectuur. Voor de totaaloplossing heeft u dan ook drie onderdelen nodig.",
+  "source": "@site/docs/product/Kosten.md",
+  "sourceDirName": "product",
+  "slug": "/product/Kosten",
+  "permalink": "/openwoo/docs/product/Kosten",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/product/Kosten.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bestuur",
+    "permalink": "/openwoo/docs/product/GOVERNANCE"
+  },
+  "next": {
+    "title": "Algemene Privacyverklaring",
+    "permalink": "/openwoo/docs/product/Privacyverklaring"
+  }
+}

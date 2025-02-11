@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/KLPD",
+  "id": "partners/KLPD",
+  "title": "KLPD",
+  "description": "",
+  "source": "@site/docs/partners/KLPD.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/KLPD",
+  "permalink": "/openwoo/docs/partners/KLPD",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/KLPD.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dimpact",
+    "permalink": "/openwoo/docs/partners/Dimpact"
+  },
+  "next": {
+    "title": "Koop integratie van search API",
+    "permalink": "/openwoo/docs/partners/Koop"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to the documentation for OpenWoo.app.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/openwoo/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introduction",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Handleidingen",
+    "permalink": "/openwoo/docs/"
+  },
+  "next": {
+    "title": "Datamask",
+    "permalink": "/openwoo/docs/partners/Datamask"
+  }
+}

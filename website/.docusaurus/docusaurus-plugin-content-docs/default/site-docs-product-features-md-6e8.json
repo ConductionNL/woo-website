@@ -1,0 +1,24 @@
+{
+  "unversionedId": "product/Features",
+  "id": "product/Features",
+  "title": "Features",
+  "description": "Een federaale search API",
+  "source": "@site/docs/product/Features.md",
+  "sourceDirName": "product",
+  "slug": "/product/Features",
+  "permalink": "/openwoo/docs/product/Features",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/product/Features.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/openwoo/docs/product/FAQ"
+  },
+  "next": {
+    "title": "Bestuur",
+    "permalink": "/openwoo/docs/product/GOVERNANCE"
+  }
+}

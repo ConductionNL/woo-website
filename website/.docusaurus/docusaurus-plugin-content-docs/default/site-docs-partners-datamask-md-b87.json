@@ -1,0 +1,24 @@
+{
+  "unversionedId": "partners/Datamask",
+  "id": "partners/Datamask",
+  "title": "Datamask",
+  "description": "OpenWoo.app en Datamask willen graag een gemeenschappelijke propositie voeren voor de WOO",
+  "source": "@site/docs/partners/Datamask.md",
+  "sourceDirName": "partners",
+  "slug": "/partners/Datamask",
+  "permalink": "/openwoo/docs/partners/Datamask",
+  "draft": false,
+  "editUrl": "https://github.com/conductionnl/woo-website/tree/main/website/docs/partners/Datamask.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/openwoo/docs/"
+  },
+  "next": {
+    "title": "Koop Hulp(je)",
+    "permalink": "/openwoo/docs/partners/DeVault"
+  }
+}
