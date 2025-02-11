@@ -10,7 +10,7 @@ const config = {
   
   // GitHub pages deployment config
   organizationName: 'conductionnl',
-  projectName: 'openwoo',
+  projectName: 'woo-website',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
