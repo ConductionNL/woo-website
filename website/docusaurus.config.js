@@ -1,3 +1,5 @@
+/// <reference types="node" />
+/* eslint-disable @typescript-eslint/no-var-requires */
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
@@ -72,7 +74,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/intro',
+                to: '/docs',
               },
             ],
           },
