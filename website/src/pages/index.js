@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Flexible object management for Nextcloud">
+      description="Een publicatie platform voor alle overheidsbronnen">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

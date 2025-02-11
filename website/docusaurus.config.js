@@ -4,7 +4,7 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OpenWoo.app',
-  tagline: 'Flexible object management for Nextcloud',
+  tagline: 'Een publicatie platform voor alle overheidsbronnen',
   url: 'https://conductionnl.github.io',
   baseUrl: '/woo-website/',
   
@@ -86,7 +86,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Open Register. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OpenWoo.app. Built with Docusaurus.`,
       },
       prism: {
         theme: require('prism-react-renderer/themes/github'),
