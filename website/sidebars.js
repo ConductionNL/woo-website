@@ -10,20 +10,7 @@ const sidebars = {
       type: 'category',
       label: 'Features',
       items: [
-        'audit-trails',
-        'time-travel',
-        'object-locking',
-        'soft-deletes',
-        'metadata',
-        'object-relations',
-        'file-attachments',
-        'content-search',
-        'automatic-facets',
-        'elasticsearch',
-        'schema-validation',
-        'register-management',
-        'access-control',
-        'storing-objects'
+        'architectuur' 
       ],
     },
   ],
