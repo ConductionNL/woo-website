@@ -3,67 +3,11 @@ name: Documentation
 on:
   push:
     branches: 
-      - documentation
-  pull_request:
-    branches: 
-      - documentation
-  
-  workflow_dispatch:
-jobs:
-  deploy:
-    name: Deploy Documentation
-    runs-on: ubuntu-latest
-    steps:
-      # https://github.com/marketplace/actions/checkout
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      # Verify directory structure
-      - name: List directory structure
-        run: |
-          ls -la
-          ls -la website
-
-      # Generate SVG files using PlantUML
-      - name: plantuml
-        id: plantuml
-        uses: grassedge/generate-plantuml-action@v1.5
-        with:
-          message: "Render PlantUML files"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # https://github.com/marketplace/actions/docusaurus-builddeploy-action
-      - name: Deploy Docusaurus
-        id: deploy
-        uses: redkubes/docusaurus-deploy-action@v1.2
-        with:
-          source-folder: website
-          git-user: ${{ github.actor }}
-          git-password: ${{ secrets.GITHUB_TOKEN }}
-          deployment-branch: gh-pages
-
-      # https://github.com/marketplace/actions/create-an-issue
-      - name: Create issue on failure
-        if: failure()
-        uses: JasonEtco/create-an-issue@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          filename: .github/DOCUMENTATION_ISSUE_TEMPLATE.md
-=======
-name: Documentation
-
-on:
-  push:
-    branches: 
       - main
   pull_request:
     branches: 
-      - documentation
-  
-  workflow_dispatch:
+      - main
+
 jobs:
   deploy:
     name: Deploy Documentation
@@ -107,4 +51,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           filename: .github/DOCUMENTATION_ISSUE_TEMPLATE.md
->>>>>>> ece8f8bfe72f724e454a36904a45338d8a998f02
