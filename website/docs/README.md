@@ -17,4 +17,4 @@
   - [Testscenario's](/docs/techniek/Tests.md)
 
 - Overige documenten
-  - [Governance](/docs/GOVERNANCE.md)
+  - [Governance](/docs/governance)

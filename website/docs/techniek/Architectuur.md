@@ -58,9 +58,9 @@ Voor de installatie van OpenWoo.app zijn meerdere codebases beschikbaar, dat hee
 
 | Codebase | Rol | Leverancier | Licentie |
 |----------|------------------------------|             |          |  
-| [Github]()         | Taakapplicatie publiceren, Publicatieplatform    | IO Digital            |          |  
-| [Github]()         | Taakapplicatie publiceren    | Acato            |          |  
-| [Github]()         | Publicatieplatform    | Acato            |          |  
+| Github               | Taakapplicatie publiceren, Publicatieplatform    | IO Digital            |          |  
+| Github               | Taakapplicatie publiceren    | Acato            |          |  
+| Github               | Publicatieplatform    | Acato            |          |  
 | [Github](https://github.com/OpenWebconcept/plugin-openwoo)         | Publicatieplatform    | Yard            | EUPL         |  
 | [Github](https://github.com/ConductionNL/woo-website-template)         | Publicatieplatform    | Conduction            | EUPL         |  
 | [Github](https://github.com/ConductionNL/plugin-openwoo)         | Synchronisatieservice      | Conduction            | EUPL        |  
