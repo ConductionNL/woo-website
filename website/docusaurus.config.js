@@ -6,7 +6,7 @@ const config = {
   title: 'OpenWoo.app',
   tagline: 'Flexible object management for Nextcloud',
   url: 'https://conductionnl.github.io',
-  baseUrl: '/openwoo/',
+  baseUrl: '/woo-website/',
   
   // GitHub pages deployment config
   organizationName: 'conductionnl',
