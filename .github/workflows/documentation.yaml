@@ -23,7 +23,7 @@ jobs:
       - name: List directory structure
         run: |
           ls -la
-          ls -la website/
+          ls -la website
 
       # Generate SVG files using PlantUML
       - name: plantuml
