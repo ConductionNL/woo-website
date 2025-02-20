@@ -3,28 +3,8 @@
 > **Ondersteuning en bijeenkomsten**
 >
 >
-> Meer weten over deze oplossing? Dat kan! Hiervoor hebben we een apart [Slack kanaal](https://samenorganiseren.slack.com/archives/C067Q3UE9F0) binnen Common Ground. We helpen je daar graag verder. Uiteraard kan je ook altijd mailen naar [info@conduction.nl](mailto:info@conduction.nl)
->
-> Tevens worden vanuit de aangesloten leveranciers worden regelmatig webinars georganiseerd.
-> Terug kijken afgelopen webinars en meetings?
-> - [15-01-2025 | Community Meeting](https://youtu.be/uV-hQwdz2Bo)
-> - [11-12-2024 | Community Meeting](https://www.youtube.com/watch?v=7vJ88exALJs)
-> - [13-11-2024 | Community Meeting](https://www.youtube.com/watch?v=ujQPlU3NBT0)
-> - [09-10-2024 | Community Meeting](https://www.youtube.com/watch?v=mlfE48JNsRE&list=PLAztWZApv5nXNXucmRDlOfzN8w7f3n6GJ&index=11)
-> - [11-09-2024 | Community Meeting](https://www.youtube.com/watch?v=041vJRcDddo&list=PLAztWZApv5nXNXucmRDlOfzN8w7f3n6GJ&index=10)
-> - [14-08-2024 | Community Meeting](https://www.youtube.com/watch?v=0uCh5aueM8U&list=PLAztWZApv5nXNXucmRDlOfzN8w7f3n6GJ&index=9)
-> - [10-07-10:00 | Community Meeting](https://www.linkedin.com/events/7206649524776284161/comments/?originTrackingId=BVZjR39lT72%2BfNaik99cew%3D%3D).
-> - [12-06-2024 | Community Meeting](https://www.youtube.com/watch?v=ab_FEexYYMY).https://youtu.be/uV-hQwdz2Bo
-> - [09-05-2024 | Community Meeting](https://www.youtube.com/watch?v=Q0ElcTP-R4M).
-> - [10-04-2024 | Community Meeting](https://www.youtube.com/watch?v=zMqElLzy0BM).
-> - [25-03-2024 | SHIFT2](https://www.shift2.nl/een-toekomstbestendige-woo-oplossing)
-> - [13-03-2024 | Community Meeting](https://www.youtube.com/watch?v=TNZghskRu5c).
-> - [14-02-2024 | Community meeting](https://www.youtube.com/watch?v=ri5U8x-lsxo)
-> - [30-01-2024 | OpenGemeenten Woobinar](https://vimeo.com/909134953)
-> - [19-12-2023 | xxllnc Demo](https://www.youtube.com/watch?v=_FGpUYH1yd0)
-> - [17-11-2023 | xxllnc Woobinar](https://www.youtube.com/watch?v=NCnLDEoPh5A)
 
-De Wet Open Overheid (Woo) is een initiatief gericht op het verbeteren van de openbaarheid van overheidsinformatie. Het doel is om overheidsinformatie beter toegankelijk te maken voor iedereen. Meer informatie over de Wet Open Overheid kan [hier](https://www.open-overheid.nl/onderwerpen/actieve-openbaarmaking) worden gevonden.
+
 
 De implementatie van de Wet Open Overheid brengt twee kernuitdagingen met zich mee:
 
@@ -36,11 +16,7 @@ De implementatie van de Wet Open Overheid brengt twee kernuitdagingen met zich m
 
 Deze uitdagingen kunnen niet effectief worden aangepakt met een enkel Content Management Systeem (CMS) of door levering vanuit één systeem. Handmatige publicatie van alle overheidsinformatie zou een aanzienlijke personele inzet vereisen, wat onpraktisch is. Daarbij komt het voor dat verschillende categorieën vaak verdeeld zijn over meerdere systemen, wat de situatie verder compliceert.
 
-## Deelnemende leveranciers
 
-| Conduction                                                                              | Xxllnc                                                                           | OpenGemeenten                                                                                     | SHIFT2                                                                     | Acato                                                                                                                                                  | Notubiz | Io |
-|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [<img src="https://raw.githubusercontent.com/ConductionNL/woo-website-template/main//docs/logos/conduction_svg.svg" height="30" />](https://www.conduction.nl/) | [<img src="https://raw.githubusercontent.com/ConductionNL/woo-website-template/main//docs/logos/xxllnc_orgineel.svg" height="30" />](https://xxllnc.nl/) | [<img src="https://raw.githubusercontent.com/ConductionNL/woo-website-template/main//docs/logos/opengemeente_orgineel.svg" height="30" />](https://www.opengemeenten.nl/) | [<img src="https://raw.githubusercontent.com/ConductionNL/woo-website-template/main//docs/logos/sim_svg.svg" height="30" />](https://www.simgroep.nl/) | [<img src="https://raw.githubusercontent.com/ConductionNL/woo-website-template/main//docs/logos/acato_orgineel.svg" height="20" />](https://acato.nl/) | [<img src="https://raw.githubusercontent.com/ConductionNL/woo-website-template/main//docs/logos/notubiz_svg.svg" height="30" />](https://www.notubiz.nl/)| [<img src="https://raw.githubusercontent.com/ConductionNL/woo-website-template/main//docs/logos/io_orgineel.svg" height="30" />](https://www.drupalvoorgemeenten.nl/)|
 
 ## Belangrijkste functionaliteiten en voordelen van OpenWoo.app
 

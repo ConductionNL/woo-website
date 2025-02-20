@@ -1,9 +1,5 @@
 # Architectuur
 
-> **Hulp nodig?**
->
-> Hiervoor hebben we een apart [Slack kanaal](https://samenorganiseren.slack.com/archives/C067Q3UE9F0) binnen Common Ground. We helpen je daar graag verder.
-
 ## Doel van OpenWoo.app
 
 De OpenWoo.app heeft als doel om een ecosysteem van samenwerkende componenten te bieden dat voorziet in de volgende functionaliteit
