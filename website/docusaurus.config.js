@@ -51,11 +51,80 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            docId: 'intro',
+            label: 'Product',
             position: 'left',
-            label: 'Documentation',
+            type: 'dropdown',
+            items: [
+              {
+                label: 'Kosten',
+                to: '/docs/Product/Kosten',
+              },
+              {
+                label: 'Privacy',
+                to: '/docs/Product/Privacyverklaring',
+              },
+              {
+                label: 'Beveiliging',
+                to: '/docs/Product/SECURITY',
+              },
+              {
+                label: 'Toegankelijkheid', 
+                to: '/docs/Product/Toegankelijkheid',
+              },
+              {
+                label: 'Roadmap',
+                to: '/docs/Product/Roadmap',
+              },
+              {
+                label: 'Community',
+                to: '/docs/Product/GOVERNANCE',
+              },
+              {
+                label: 'Veel gestelde vragen',
+                to: '/docs/Product/FAQ',
+              },
+            ],
+          },
+          {
+            label: 'Techniek',
+            position: 'left',
+            type: 'dropdown',
+            items: [
+              {
+                label: 'Naar Productie',
+                to: '/docs/Techniek/Productie',
+              },
+              {
+                label: 'Architectuur',
+                to: '/docs/Techniek/Architectuur',
+              },
+              {
+                label: 'Installatie',
+                to: '/docs/Techniek/Installatie',
+              },
+              {
+                label: 'Integratie',
+                to: '/docs/Techniek/Integratie',
+              },
+              {
+                label: 'Configuratie',
+                to: '/docs/Techniek/Configuratie',
+              },
+              {
+                label: 'Testscenario\'s',
+                to: '/docs/Techniek/Tests',
+              },
+            ],
+          },
+          {
+            label: 'Over Open Webconcept',
+            position: 'left',
+            href: 'https://openwebconcept.nl/',
+          },
+          {
+            href: 'https://samenorganiseren.slack.com/archives/C067Q3UE9F0',
+            label: 'Slack',
+            position: 'right',
           },
           {
             href: 'https://github.com/conductionnl/woo-website',
@@ -68,20 +137,81 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Links',
             items: [
               {
-                label: 'Documentation',
-                to: '/docs',
+                label: 'Home',
+                to: '/',
+              },
+              {
+                label: 'Slack',
+                href: 'https://samenorganiseren.slack.com/archives/C067Q3UE9F0',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/ConductionNL/woo-website-template',
+              },
+              {
+                label: 'Open Webconcept',
+                href: 'https://openwebconcept.nl/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Product',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/conductionnl/woo-website',
+                label: 'Kosten',
+                to: '/docs/Product/Kosten',
+              },
+              {
+                label: 'Privacy',
+                to: '/docs/Product/Privacyverklaring',
+              },
+              {
+                label: 'Beveiliging',
+                to: '/docs/Product/SECURITY',
+              },
+              {
+                label: 'Toegankelijkheid',
+                to: '/docs/Product/Toegankelijkheid',
+              },
+              {
+                label: 'Roadmap',
+                to: '/docs/Product/Roadmap',
+              },
+              {
+                label: 'Veelgestelde vragen',
+                to: '/docs/Product/FAQ',
+              },
+            ],
+          },
+          {
+            title: 'Techniek',
+            items: [
+              {
+                label: 'Naar Productie',
+                to: '/docs/Techniek/Productie',
+              },
+              {
+                label: 'Architectuur',
+                to: '/docs/Techniek/Architectuur',
+              },
+              {
+                label: 'Installatie',
+                to: '/docs/Techniek/Installatie',
+              },
+              {
+                label: 'Integratie',
+                to: '/docs/Techniek/Integratie',
+              },
+              {
+                label: 'Configuratie',
+                to: '/docs/Techniek/Configuratie',
+              },
+              {
+                label: 'Testscenario\'s',
+                to: '/docs/Techniek/Tests',
               },
             ],
           },
