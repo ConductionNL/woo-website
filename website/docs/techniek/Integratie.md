@@ -175,4 +175,4 @@ Er zijn twéé manieren waarop een bron kan worden gekoppeld, beide vereisen dat
 
 ## Het koppelen van een organisatie
 
-Zie voor het koppelen van een organisatie de [naar productiepagina](../techniek/Productie.md).
+Zie voor het koppelen van een organisatie de [naar productiepagina](/docs/techniek/Productie.md).
