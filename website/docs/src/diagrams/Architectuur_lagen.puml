@@ -1,0 +1,46 @@
+@startuml
+title Basis Architectuur
+footer: OpenWoo.app
+header: OpenWoo.app
+
+skinparam defaultFontName Arial
+skinparam nodesep 50
+skinparam ranksep 50
+skinparam shadowing false
+
+
+frame "UI (laag 5)" {
+    rectangle "KOOP / WooGLe" as KW  #cce5ff
+    rectangle "Open Catalogi" as CO  #1abc9c
+    rectangle "Publicatie Pagina" as PP  #1abc9c
+}
+
+' Integratie (Laag 3)
+frame "Integratie (laag 3)" {
+    rectangle "Open Connector" as OCon  #1abc9c
+}
+
+' Bronnen (Laag 2)
+frame "Bronnen (laag 2)" {
+    rectangle "Open Register" as ORP  #1abc9c
+    database "CMS\n(Website)" as CMS  #cce5ff
+    database "ZGW / StUF\n(Zaaksysteem)" as ZS  #cce5ff
+    database "RIS\n(Raadsinformatie systeem)" as RIS  #cce5ff
+    database "DMS/RMA" as DMS  #cce5ff
+    database "eDepot\n(Archiefsysteem)" as ED  #cce5ff
+    database "Sharepoint\n(Filemanagment)" as SP  #cce5ff
+}
+
+CMS -up-> OCon
+ZS -up-> OCon
+RIS -up-> OCon
+DMS -up-> OCon
+ED -up-> OCon
+SP -up-> OCon
+
+OCon -left-> ORP
+ORP -up-> PP
+ORP -up-> KW
+CO -right-> ORP
+
+@enduml

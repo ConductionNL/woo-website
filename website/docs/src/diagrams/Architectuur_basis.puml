@@ -1,0 +1,22 @@
+@startuml
+title Basis Architectuur
+footer: OpenWoo.app
+header: OpenWoo.app
+
+skinparam defaultFontName Arial
+skinparam nodesep 50
+skinparam ranksep 50
+skinparam shadowing false
+
+
+    rectangle "Open Catalogi" as CO  #1abc9c
+    rectangle "Publicatie Pagina" as PP  #1abc9c
+    rectangle "Open Connector" as OCon  #1abc9c
+
+    rectangle "Open Register" as ORP  #1abc9c
+
+OCon -left-> ORP
+ORP -up-> PP
+CO -right-> ORP
+
+@enduml
