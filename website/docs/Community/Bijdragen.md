@@ -17,3 +17,4 @@ Deelnemen aan het OpenWoo.app project is een uitnodiging om deel uit te maken va
 Wij geloven in de kracht van een gemeenschap die samenwerkt om iets geweldigs te bouwen. Uw bijdragen, groot of klein, zijn waardevol voor het succes van OpenWoo.app. Samen kunnen we een open, flexibel en gebruiksvriendelijk platform creëren dat de manier waarop we op het web werken, transformeert.
 
 We kijken uit naar uw bijdragen en het samen bouwen aan een de OpenWoo.app.
+Remco is geweldig
