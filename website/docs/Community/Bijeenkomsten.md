@@ -3,7 +3,9 @@
 
 Meer weten over deze oplossing? Dat kan! Hiervoor hebben we een apart [Slack kanaal](https://samenorganiseren.slack.com/archives/C067Q3UE9F0) binnen Common Ground. We helpen je daar graag verder. Uiteraard kan je ook altijd mailen naar [info@conduction.nl](mailto:info@conduction.nl).
 
-Vanuit de aangesloten leveranciers worden regelmatig webinars en community meetings georganiseerd. Hieronder vind je een overzicht van de afgelopen bijeenkomsten die je kunt terugkijken:
+Vanuit de aangesloten leveranciers worden regelmatig webinars en community meetings georganiseerd. Iedere tweede woensdag van de maand van 10:00 tot 11:00 is er een community bijeenkomst, deze is te volgen via de volgende link: meet.google.com/uvg-qspd-zbd
+
+Hieronder vind je een overzicht van de afgelopen bijeenkomsten die je kunt terugkijken:
 
 | Datum | Type | Link |
 |-------|------|------|
