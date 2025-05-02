@@ -6,7 +6,7 @@ Als er tijdens of na het lezen zijn nog vragen zijn, neem een kijkje op de [FAQ]
 
 ## Wat is OpenWoo.app
 
-OpenWoo.app is in essentie een API-koppelvlak waar aan de bovenkant meerdere weergaven of user interfaces (front-ends) op kunnen worden gekoppeld en aan de onderkant meerdere bronnen ontsloten. Als u meer wilt weten over OpenWoo.app kunt u meer lezen op [https://openwoo.app](https://openwoo.app).
+OpenWoo.app is in essentie een API-koppelvlak waar aan de bovenkant meerdere weergaven of user interfaces (front-ends) op kunnen worden gekoppeld en aan de onderkant meerdere bronnen ontsloten. Als u meer wilt weten over OpenWoo.app kunt u meer lezen op [openwoo.app](https://openwoo.app).
 
 > **Hulp nodig?**
 >

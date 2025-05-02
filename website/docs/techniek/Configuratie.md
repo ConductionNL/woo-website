@@ -157,6 +157,6 @@ Als laatste zijn er ook een aantal waarde op het publicatieobject die worden gez
 
 | Eigenchap        | Invulling                           | Gebruik |
 |------------------|-------------------------------------|-------------------|
-| portalUrl        | {config}/{id van de publicatie} | Metadata                              |
-| organisatie.naam | {config}                          | Metadata                              |
-| organisatie.oin  | {config}                          | Metadata                              |
+| portalUrl        | `\{config\}/\{id van de publicatie\}` | Metadata                              |
+| organisatie.naam | `\{config\}`                          | Metadata                              |
+| organisatie.oin  | `\{config\}`                          | Metadata                              |
