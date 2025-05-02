@@ -28,7 +28,7 @@ Voor de API is een [Stoplight documentatie](https://conduction.stoplight.io/stud
 
 ### Voorbeelden
 
-In het merendeel van de gevallen zult u een zoekvraag willen uitvoeren binnen de Woo-publicaties van OpenWoo.app, het endpoint daarvoor is: <https://api.gateway.commonground.nu/api/publicaties>. Er zijn een aantal voor de hand liggende zoekparameters waarmee gezocht wordt (overige opties zijn terug te vinden in de [Stoplight documentatie](https://conduction.stoplight.io/studio/open-catalogi?)).
+In het merendeel van de gevallen zult u een zoekvraag willen uitvoeren binnen de Woo-publicaties van OpenWoo.app, het endpoint daarvoor is: https://api.gateway.commonground.nu/api/publicaties.
 
 1. Op een of meerdere zoek woorden, b.v. `_search=test`
 2. Op organisatie, dit gaat aan de hand van OIN (de volledige OIN-lijst vind u [hier](https://oinregister.logius.nl/oin-register)) b.v. `oin=00000001001299992000`
