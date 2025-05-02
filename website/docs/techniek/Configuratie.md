@@ -47,7 +47,7 @@ Het is niet per definitie nodig om alle eigenschappen in het bronsysteem handmat
 
 ### Algemene eigenschappen
 
-Een aantal zaakattributen zijn noodzakelijk voor het voor het goed werken van de OpenWoo.app, ze zijn dan ook altijd verplicht ongeacht de Woo categorie.  
+Een aantal zaakattributen zijn noodzakelijk voor het voor het goed werken van de OpenWoo.app, ze zijn dan ook altijd verplicht ongeacht de Woo categorie.  
 
 | Property            | Verplicht | Gebruik                                                                                                 | Toegestane waardes |
 |---------------------|-----------|---------------------------------------------------------------------------------------------------------|--------------------|
@@ -65,7 +65,7 @@ Een aantal zaakattributen zijn noodzakelijk voor het voor het goed werken van de
 | woo_termijnoverschrijding | Nee | | |
 | woo_datum_besluit         | Nee       | De datum waarop het besluit over de zaak genomen is                              | string formatted as date-time (e.g., 2023-09-12 09:00) or string formatted as date (e.g., 2023-09-12). If a date is presented instead of a date-time, the time will be automatically set to 00:00. |
 | woo_datum_ontvangst       | Nee       | De datum waarop de zaak genomen is geregistreerd                                 | string formatted as date-time (e.g., 2023-09-12 09:00) or string formatted as date (e.g., 2023-09-12). If a date is presented instead of a date-time, the time will be automatically set to 00:00. |
-| woo_organisatieonderdeel  | Nee       | Vrije invulling tot op welk niveau ‘organisatieonderdeel’ wordt geïnterpreteerd. | string, max 2555 characters |
+| woo_organisatieonderdeel  | Nee       | Vrije invulling tot op welk niveau 'organisatieonderdeel' wordt geïnterpreteerd. | string, max 2555 characters |
 | woo_functiebenaming       | Nee       |  | string, max 255 characters |
 | woo_gedraging             | Nee       |  | string, max 2555 characters |
 | woo_bevindingen           | Nee       |  | string, max 2555 characters |
@@ -157,6 +157,6 @@ Als laatste zijn er ook een aantal waarde op het publicatieobject die worden gez
 
 | Eigenchap        | Invulling                           | Gebruik |
 |------------------|-------------------------------------|-------------------|
-| portalUrl        | {{config}}/{{id van de publicatie}} | Metadata                              |
-| organisatie.naam | {{config}}                          | Metadata                              |
-| organisatie.oin  | {{config}}                          | Metadata                              |
+| portalUrl        | {config}/{id van de publicatie} | Metadata                              |
+| organisatie.naam | {config}                          | Metadata                              |
+| organisatie.oin  | {config}                          | Metadata                              |

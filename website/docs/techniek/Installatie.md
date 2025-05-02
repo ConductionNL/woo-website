@@ -1,6 +1,6 @@
 # Installatie
 
-Deze installatiehandleiding is bedoeld voor overheden en leveranciers die zelfstandig aan de slag willen met OpenWoo-website. Als je OpenWoo-website als SaaS wilt afnemen, kijk dan onder [kosten](/docs/product/Kosten.md).
+Deze installatiehandleiding is bedoeld voor overheden en leveranciers die zelfstandig aan de slag willen met OpenWoo-website. Als je OpenWoo-website als SaaS wilt afnemen, kijk dan onder [kosten](/docs/product/kosten.md).
 
 Het template voor de OpenWoo-website is gebaseerd op de Conduction [Productpage-template](https://github.com/ConductionNL/product-website-template) voor Common Ground. Hieronder tref je een verkorte installatiehandleiding aan die vooral focust op de onderliggende bronnen. Voor meer en uitgebreidere details kun je de documentatie van het Productpage-website-template gebruiken.
 
