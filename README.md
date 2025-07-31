@@ -22,7 +22,7 @@ Deze uitdagingen kunnen niet effectief worden aangepakt met een enkel Content Ma
 
 - **Centrale Index Pagina:** Een overzichtelijke locatie voor alle openbare data van uw organisatie voor verbeterde vindbaarheid van informatie.
 - **Multibron Dataweergave:** Een naadloze integratie en presentatie van data uit diverse bronnen, zoals het zaaksysteem, websites, raadsinformatiesystemen en archieven.
-- **Keuze uit Publicatieplatformen:** Met opties zoals NL Design React en OpenGemeenten TYPO3, biedt OpenWoo.app flexibiliteit in de manier waarop uw gegevens gepubliceerd worden, terwijl het tegelijkertijd eenvoudig integreerbaar is in uw huidige website.
+- **Keuze uit Publicatieplatformen:** Met opties zoals NL Design React, Yard Elastic search, Acato Wordpress, IO Drupal en OpenGemeenten TYPO3, biedt OpenWoo.app flexibiliteit in de manier waarop uw gegevens gepubliceerd worden, terwijl het tegelijkertijd eenvoudig integreerbaar is in uw huidige website.
 - **Automatische Data-aanlevering:** Efficiënte aanlevering bij landelijke indexen zoals KOOP en WooGLe, door middel van `sitemap.xml`-bestanden en API's, vergroot het bereik en de zichtbaarheid van uw gegevens.
 - **Proactieve Publicatie:** Automatiseer het publicatieproces en verminder handmatige inspanningen met de slimme, proactieve publicatiefuncties van OpenWoo.app.
 - **Toekomstbestendig en Veilig:** Bereid uw organisatie voor op toekomstige ontwikkelingen met configureerbare publicatietypen en verhoog de veiligheid en efficiëntie door het verminderen van directe bevragingen op bronnen.
@@ -38,17 +38,16 @@ OpenWoo.app gaat verder dan alleen deze basisfunctionaliteiten door een geïnteg
 - **Koppelvlak naar KOOP en WooGLe voor de Landelijke Index:** Deze interface faciliteert een gestandaardiseerde verbinding met het Kennis- en Exploitatiecentrum Officiële Publicaties (KOOP) en WooGLe van de WOOverheid van de UvA.
 - **Federatieve Connectie:** Door gebruik te maken van een op FSC/NLX gebaseerde connectie, worden de zoekindexen van deelnemende organisaties samengevoegd tot één virtuele zoekindex.
 - **Zoekpagina (Optioneel):** Een op NL Design gebaseerd publicatieplatform dat belanghebbenden in staat stelt om naar relevante informatie te zoeken.
-- **Open WooService:** Deze module verzamelt informatie uit verschillende bronnen, waardoor een gecentraliseerde toegang tot diverse categorieën van gegevens mogelijk wordt.
-- **Open Index:** Een opgebouwde index van openbare informatie die samen met andere zoekindexen een landelijke federatie vormt.
-- **Overige Bronnen (Optioneel):** Bronnen zoals het Zaaksysteem, Raadsinformatiesysteem en archief kunnen optioneel worden gekoppeld, met ondersteuning voor handmatige uploads via het CMS van uw huidige website.
+- **Open Woo - OpenConnector:** Deze module verzamelt informatie uit verschillende bronnen, waardoor een gecentraliseerde toegang tot diverse categorieën van gegevens mogelijk wordt.
+- **Open Woo - OpenRegister:** Een opgebouwd register van openbare informatie die samen met andere zoekindexen een landelijke federatie vormt.
+- **Overige Bronnen (Optioneel):** Bronnen zoals het Zaaksysteem, Raadsinformatiesysteem en archief kunnen optioneel worden gekoppeld, met ondersteuning voor handmatige uploads via de RegieTool.
 
 Deze geïntegreerde aanpak zorgt voor een naadloze, efficiënte en effectieve implementatie van de Wet Open Overheid (Woo), waardoor overheidsorganisaties hun informatie op een gebruiksvriendelijke en toegankelijke wijze kunnen delen. OpenWoo.app is niet alleen een tool om te voldoen aan de Wet open overheid (Woo), maar een strategische partner die handwerk vermindert, transparantie bevordert, en de toegankelijkheid van overheidsinformatie aanzienlijk verbetert.
 
 De OpenWoo.app architectuur is bewust ontworpen om gemeenten de keuze te geven in hoe zij willen omgaan met de Wet Open Overheid en KOOP
 
 - Wil je automatisch publiceren uit je huidige zaaksysteem? dat kan!
-- Liever publiceren uit je huidige website? dat kan ook!
-- Of wil je bij KOOP aanleveren vanuit een kleine openzaak installatie? dan kan dat natuurlijk ook.
+- Liever publiceren uit je huidige website of RegieTool? dat kan ook!
 
 Wil je meer weten over de architectuur van de OpenWoo.app en uit welke componenten het bestaat? Kijk dan op de [architectuurpagina](/docs/techniek/Architectuur.md).
 
