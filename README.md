@@ -61,16 +61,16 @@ Op dit moment wordt de OpenWoo.app al door een aantal organisaties gebruikt
 | [Epe](https://www.epe.nl/) | Gemeente |[Pagina](https://open.epe.nl/) | Zaaksysteem.nl | Productie  |
 | [Roosendaal](https://www.roosendaal.nl/) | Gemeente |[Pagina](https://open.roosendaal.nl/) | Zaaksysteem.nl | Productie  |
 | [Zutphen](https://www.zutphen.nl/) | Gemeente |[Pagina](https://open.zutphen.nl/) | Zaaksysteem.nl | Productie  |
-| [Tubbergen](https://www.tubbergen.nl/) | Gemeente |[Pagina](https://acceptatie-open.tubbergen.nl) | Zaaksysteem.nl  | Productie |
-| [Dinkelland](https://www.dinkelland.nl/) | Gemeente |[Pagina](https://acceptatie-open.dinkelland.nl) | Zaaksysteem.nl | Productie |
-| [Moerdijk](https://www.moerdijk.nl/) | Gemeente |[Pagina](https://acceptatie-open.moerdijk.nl/) | Zaaksysteem.nl | Acceptatie |
-| [Gooise Meren](https://www.gooisemeren.nl/) | Gemeente |[Pagina](https://acceptatie-open.gooisemeren.nl) | Zaaksysteem.nl | Acceptatie |
-| [Hof van Twente](https://www.hofvantwente.nl/) | Gemeente |[Pagina](https://conductionnl.github.io/woo-website-hofvantwente/) | Zaaksysteem.nl | Acceptatie |
-| [Gouda](https://www.gouda.nl/) | Gemeente |[Pagina](https://conductionnl.github.io/woo-website-gouda/) | Zaaksysteem.nl | Acceptatie |
-| [Rotterdam (Alleen vormgeving)](https://www.rotterdam.nl/) | Gemeente |[Pagina](https://conductionnl.github.io/woo-website-rotterdam/) | Demo Omgeving                   | Demo       |
-| [Noaberkracht](https://www.dinkelland.nl/noaberkracht-dinkelland-tubbergen) | Samenwerkingsverband | [Pagina](https://acceptatie-open.noaberkracht.nl) | Zaaksysteem.nl | Productie |
-| [Leiden (Alleen vormgeving)](https://gemeente.leiden.nl/) | Gemeente | [Pagina](https://conductionnl.github.io/woo-website-leiden/) | Demo Omgeving           | Demo       |
-| [Xxllnc (Demo omgeving)](https://xxllnc.nl/) | Leverancier | [Pagina](https://conductionnl.github.io/woo-website-xxllnc/) | Demo Omgeving           | Demo       |
+| [Tubbergen](https://www.tubbergen.nl/) | Gemeente |[Pagina](https://open.tubbergen.nl) | Zaaksysteem.nl  | Productie |
+| [Dinkelland](https://www.dinkelland.nl/) | Gemeente |[Pagina](https://open.dinkelland.nl) | Zaaksysteem.nl | Productie |
+| [Moerdijk](https://www.moerdijk.nl/) | Gemeente |[Pagina](https://open.moerdijk.nl/) | Zaaksysteem.nl | Productie |
+| [Gooise Meren](https://www.gooisemeren.nl/) | Gemeente |[Pagina](https://open.gooisemeren.nl) | Zaaksysteem.nl | Productie |
+| [Hof van Twente](https://www.hofvantwente.nl/) | Gemeente |[Pagina](https://open.hofvantwente.nl/)) | Zaaksysteem.nl | Productie |
+| [Gouda](https://www.gouda.nl/) | Gemeente |[Pagina](https://open.gouda.nl/) | Zaaksysteem.nl | Productie |
+| [Tilburg](https://www.tilburg.nl/) | Gemeente |[Pagina](https://open.tilburg.nl/) | Zaaksysteem.nl, Sharepoint, RXMission, Notubiz | Productie |
+| [Noaberkracht](https://www.dinkelland.nl/noaberkracht-dinkelland-tubbergen) | Samenwerkingsverband | [Pagina](https://open.noaberkracht.nl) | Zaaksysteem.nl | Productie |
+| [Hoeksche Waard](https://www.gemeentehw.nl/) | Gemeente | [Pagina](https://hoekschewaard.accept.openwoo.app/) | DECOS    | Acceptatie  |
+| [Helmond](https://www.helmond.nl/) | Gemeente | [Pagina](https://helmond.accept.openwoo.app/) | Djuma           | Acceptatie       |
 
 ## Toekomstplannen
 
