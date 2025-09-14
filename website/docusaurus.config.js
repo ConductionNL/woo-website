@@ -16,6 +16,9 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang
   i18n: {
@@ -30,7 +33,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/conductionnl/woo-website/tree/main/website/',
+          editUrl:
+            'https://github.com/conductionnl/openregister/tree/main/website/',
         },
         blog: false,
         theme: {
@@ -38,96 +42,73 @@ const config = {
         },
       }),
     ],
+    [
+      'redocusaurus',
+      {
+        // Plugin Options for loading OpenAPI files
+        specs: [
+          // Pass it a path to a local OpenAPI YAML file
+          {
+            // Redocusaurus will automatically bundle your spec into a single file during the build
+            id: 'open-catalogi',
+            spec: 'static/oas/open-catalogi.yaml',
+            route: '/api/search',
+          },
+          {
+            // Redocusaurus will automatically bundle your spec into a single file during the build
+            id: 'woo-register',
+            spec: 'static/oas/open-catalogi.yaml',
+            route: '/api/woo-register',
+          },
+          {
+            // Redocusaurus will automatically bundle your spec into a single file during the build
+            id: 'publication-registers',
+            spec: 'static/oas/open-catalogi.yaml',
+            route: '/api/publication-registers',
+          },
+        ],
+        // Theme Options for modifying how redoc renders them
+        theme: {
+          // Change with your site colors
+          primaryColor: '#1890ff',
+        },
+      },
+    ]
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OpenWoo.app',
+        title: 'Open Register',
         logo: {
-          alt: 'OpenWoo.app Logo',
+          alt: 'Open Register Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            label: 'Product',
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
-            type: 'dropdown',
-            items: [
-              {
-                label: 'Kosten',
-                to: '/docs/Product/Kosten',
-              },
-              {
-                label: 'Privacy',
-                to: '/docs/Product/Privacyverklaring',
-              },
-              {
-                label: 'Beveiliging',
-                to: '/docs/Product/SECURITY',
-              },
-              {
-                label: 'Toegankelijkheid', 
-                to: '/docs/Product/Toegankelijkheid',
-              },
-              {
-                label: 'Roadmap',
-                to: '/docs/Product/Roadmap',
-              },
-              {
-                label: 'Community',
-                to: '/docs/Product/GOVERNANCE',
-              },
-              {
-                label: 'Veel gestelde vragen',
-                to: '/docs/Product/FAQ',
-              },
-            ],
+            label: 'Documentation',
           },
           {
-            label: 'Techniek',
-            position: 'left',
-            type: 'dropdown',
-            items: [
-              {
-                label: 'Naar Productie',
-                to: '/docs/Techniek/Productie',
-              },
-              {
-                label: 'Architectuur',
-                to: '/docs/Techniek/Architectuur',
-              },
-              {
-                label: 'Installatie',
-                to: '/docs/Techniek/Installatie',
-              },
-              {
-                label: 'Integratie',
-                to: '/docs/Techniek/Integratie',
-              },
-              {
-                label: 'Configuratie',
-                to: '/docs/Techniek/Configuratie',
-              },
-              {
-                label: 'Testscenario\'s',
-                to: '/docs/Techniek/Tests',
-              },
-            ],
-          },
-          {
-            label: 'Over Open Webconcept',
-            position: 'left',
-            href: 'https://openwebconcept.nl/',
-          },
-          {
-            href: 'https://samenorganiseren.slack.com/archives/C067Q3UE9F0',
-            label: 'Slack',
+            href: '/api/search',
+            label: 'Zoeken API',
             position: 'right',
           },
           {
-            href: 'https://github.com/conductionnl/woo-website',
+            href: '/api/publication-registers',
+            label: 'Backend API',
+            position: 'right',
+          },
+          {
+            href: '/api/woo-register',
+            label: 'Woo API',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/conductionnl/openregister',
             label: 'GitHub',
             position: 'right',
           },
@@ -137,86 +118,25 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Links',
+            title: 'Docs',
             items: [
               {
-                label: 'Home',
-                to: '/',
+                label: 'Documentation',
+                to: '/docs/intro',
               },
-              {
-                label: 'Slack',
-                href: 'https://samenorganiseren.slack.com/archives/C067Q3UE9F0',
-              },
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/ConductionNL/woo-website-template',
-              },
-              {
-                label: 'Open Webconcept',
-                href: 'https://openwebconcept.nl/',
-              },
-            ],
-          },
-          {
-            title: 'Product',
-            items: [
-              {
-                label: 'Kosten',
-                to: '/docs/Product/Kosten',
-              },
-              {
-                label: 'Privacy',
-                to: '/docs/Product/Privacyverklaring',
-              },
-              {
-                label: 'Beveiliging',
-                to: '/docs/Product/SECURITY',
-              },
-              {
-                label: 'Toegankelijkheid',
-                to: '/docs/Product/Toegankelijkheid',
-              },
-              {
-                label: 'Roadmap',
-                to: '/docs/Product/Roadmap',
-              },
-              {
-                label: 'Veelgestelde vragen',
-                to: '/docs/Product/FAQ',
-              },
-            ],
-          },
-          {
-            title: 'Techniek',
-            items: [
-              {
-                label: 'Naar Productie',
-                to: '/docs/Techniek/Productie',
-              },
-              {
-                label: 'Architectuur',
-                to: '/docs/Techniek/Architectuur',
-              },
-              {
-                label: 'Installatie',
-                to: '/docs/Techniek/Installatie',
-              },
-              {
-                label: 'Integratie',
-                to: '/docs/Techniek/Integratie',
-              },
-              {
-                label: 'Configuratie',
-                to: '/docs/Techniek/Configuratie',
-              },
-              {
-                label: 'Testscenario\'s',
-                to: '/docs/Techniek/Tests',
+                href: 'https://github.com/conductionnl/openregister',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OpenWoo.app. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} for <a href="https://openwebconcept.nl">Open Webconcept</a> by <a href="https://conduction.nl">Conduction B.V.</a>`,
       },
       prism: {
         theme: require('prism-react-renderer/themes/github'),
