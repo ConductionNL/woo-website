@@ -8,7 +8,7 @@ skinparam nodesep 50
 skinparam ranksep 50
 skinparam shadowing false
 
-
+' UI (Laag 5)
 frame "UI (laag 5)" {
     rectangle "KOOP / WooGLe" as KW  #cce5ff
     rectangle "Open Catalogi" as CO  #1abc9c
